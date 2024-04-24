@@ -21,13 +21,23 @@ header {
     height: 100px;
 }
 
-p{
+p {
     font-style: italic;
-    font-family: cursive;
+    font-family: Verdana, cursive, sans-serif;
     text-align: justify;
     text-indent: 100px;
-    line-height: 1.8p;  
+    line-height: 1.8p;
     word-spacing: 3px;
 
 }
 
+footer {
+    background-color: bisque;
+
+}
+
+.contact1 th,.contact1 td {
+border: 1px solid;
+width: 30%;
+
+}
